@@ -1,0 +1,30 @@
+C:\Users\chris.banwarth\GitHub\Avatool\Build\AppData\Documentation\Changelog.md
+C:\Users\chris.banwarth\GitHub\Avatool\Build\AppData\Documentation\Development Notes.md
+C:\Users\chris.banwarth\GitHub\Avatool\Build\AppData\Documentation\Known issues.md
+C:\Users\chris.banwarth\GitHub\Avatool\Build\AppData\Documentation\Manual.md
+C:\Users\chris.banwarth\GitHub\Avatool\Build\AppData\Documentation\Notices.md
+C:\Users\chris.banwarth\GitHub\Avatool\Build\AppData\Documentation\Roadmap.md
+C:\Users\chris.banwarth\GitHub\Avatool\Build\AppData\Documentation\ScratchData.txt
+C:\Users\chris.banwarth\GitHub\Avatool\Build\AppData\Document\Changelog.md
+C:\Users\chris.banwarth\GitHub\Avatool\Build\AppData\Document\Known_issues.md
+C:\Users\chris.banwarth\GitHub\Avatool\Build\AppData\Document\Notices.md
+C:\Users\chris.banwarth\GitHub\Avatool\Build\AppData\Config\About_this_folder.txt
+C:\Users\chris.banwarth\GitHub\Avatool\Build\Avatool.exe.config
+C:\Users\chris.banwarth\GitHub\Avatool\Build\Avatool.exe
+C:\Users\chris.banwarth\GitHub\Avatool\Build\Avatool.pdb
+C:\Users\chris.banwarth\GitHub\Avatool\src\obj\Debug\Avatool.csprojAssemblyReference.cache
+C:\Users\chris.banwarth\GitHub\Avatool\src\obj\Debug\Main.g.cs
+C:\Users\chris.banwarth\GitHub\Avatool\src\obj\Debug\Startup\Startup.g.cs
+C:\Users\chris.banwarth\GitHub\Avatool\src\obj\Debug\App.g.cs
+C:\Users\chris.banwarth\GitHub\Avatool\src\obj\Debug\Avatool_MarkupCompile.cache
+C:\Users\chris.banwarth\GitHub\Avatool\src\obj\Debug\Avatool_MarkupCompile.lref
+C:\Users\chris.banwarth\GitHub\Avatool\src\obj\Debug\Main.baml
+C:\Users\chris.banwarth\GitHub\Avatool\src\obj\Debug\Startup\Startup.baml
+C:\Users\chris.banwarth\GitHub\Avatool\src\obj\Debug\Avatool.g.resources
+C:\Users\chris.banwarth\GitHub\Avatool\src\obj\Debug\Avatool.Properties.Resources.resources
+C:\Users\chris.banwarth\GitHub\Avatool\src\obj\Debug\Avatool.csproj.GenerateResource.cache
+C:\Users\chris.banwarth\GitHub\Avatool\src\obj\Debug\Avatool.csproj.CoreCompileInputs.cache
+C:\Users\chris.banwarth\GitHub\Avatool\src\obj\Debug\Avatool.csproj.CopyComplete
+C:\Users\chris.banwarth\GitHub\Avatool\src\obj\Debug\Avatool.exe
+C:\Users\chris.banwarth\GitHub\Avatool\src\obj\Debug\Avatool.pdb
+C:\Users\chris.banwarth\GitHub\Avatool\Build\AppData\Images\App\Avatool_logo.png

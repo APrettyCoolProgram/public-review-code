@@ -1,0 +1,33 @@
+﻿<Window x:Class="Avatool.Main"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Avatool"
+        mc:Ignorable="d"
+        Title="Main" Height="768" Width="1024">
+    <Grid>
+        <Image x:Name="avatoolLogo"
+               HorizontalAlignment="Left" VerticalAlignment="Top"
+               Height="80" Width="80"
+               Margin="10,10,0,0" Source="pack://siteoforigin:,,,/AppData/Images/App/Avatool_logo.png"/>
+        <Label x:Name="avatoolTitle"
+               Content="Avatool"
+               HorizontalAlignment="Left" VerticalAlignment="Top" HorizontalContentAlignment="Center"
+               Margin="10,51,0,0"
+               Width="80"
+               FontSize="16" RenderTransformOrigin="1.2,2.903" Height="27"/>
+        <Button x:Name="AutoTestButton"
+                Content="Auto Test"
+                HorizontalAlignment="Left" VerticalAlignment="Top" 
+                Margin="10,95,0,0"
+                Height ="80" Width="80
+                "/>
+        <Button x:Name="DevModeActionButton01"
+                Content=""
+                HorizontalAlignment="Left" VerticalAlignment="Top" 
+                Margin="10,10,0,0"
+                Height="10" Width="10" BorderBrush="#FFF50000" Background="#FF6E1616" Click="DevModeActionButton01_Click"/>
+
+    </Grid>
+</Window>

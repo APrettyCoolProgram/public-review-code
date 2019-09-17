@@ -1,0 +1,1 @@
+﻿# Avatool Known Issues
