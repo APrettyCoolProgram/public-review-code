@@ -1,6 +1,0 @@
-﻿About the /AppData/Development/DevMode/ folder
-==============================================
-This folder should contain any data that you need for development and testing
-your project.
-
-By default, this folder is always copied to your project's output directory.

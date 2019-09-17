@@ -1,9 +1,0 @@
-{
-    "DevMode": false,
-    "RootDir": "AppData/",
-    "TempDir": "AppData/Temp/",
-    "RuntimeDir": "AppData/Runtime/",
-    "FilesToKeep": [
-        "About-this-folder.txt"
-    ]
-}

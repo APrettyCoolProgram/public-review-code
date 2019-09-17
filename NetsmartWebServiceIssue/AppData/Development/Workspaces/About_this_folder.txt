@@ -1,5 +1,0 @@
-﻿About the /AppData/Workspace/ folder
-====================================
-This folder should contain any data that you need IDE workspaces.
-
-By default, this folder is always copied to your project's output directory.
